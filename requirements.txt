@@ -1,0 +1,7 @@
+langchain>=0.2.0
+langchain-community
+langchain-openai
+python-dotenv
+gradio
+faiss-cpu
+requests
